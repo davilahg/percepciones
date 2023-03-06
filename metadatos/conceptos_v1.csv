@@ -1,24 +1,24 @@
 concepto_practico,termino,tema,origen
 desmonte,desmonte,prácticas de manejo de la parcela,"desmonte, tumba, desbrozar, chapear"
 control de plagas y malezas,rociar,prácticas de manejo de la parcela,"rociar, aplicar líquido para hoja ancha"
-siembra pastos,siembra de pastos,prácticas de manejo de la parcela,siembra de pastos
-siembra de cultivos,siembra de cultivos,,siembra de milpa
+siembra pastos,pastos,recursos en la parcela,"cantidad de pastura, crecimiento/calidad de la guinea"
+siembra de cultivos,cultivos,,siembra de milpa
 mantenimiento del lienzo,mantenimiento del lienzo,prácticas de manejo de la parcela,mantenimiento del lienzo
 quemas,quemas,prácticas de manejo de la parcela,quemas
 rotación de potreros,rotación de potreros,prácticas de manejo de la parcela,rotación de potreros
 "cuidado de la salud del ganado
-¿desparasitar?",cuidado de la salud del ganado,prácticas de manejo del ganado,"desparasitar, bañar, vacunar"
+¿desparasitar?",cuidado veterinario,prácticas de manejo del ganado,"desparasitar, bañar, vacunar"
 bombear/acarrear agua,acarrear agua,prácticas de manejo del ganado,acarrear agua
 construcción de represos/pozos,bebederos y represas,,
 madera,madera,recursos en la parcela,"postes, madera, varas, leña, carbón"
-pastura,pastura,recursos en la parcela,"cantidad de pastura, crecimiento/calidad de la guinea"
+siembra,siembra,,"siembra de cultivos, verbo siembra"
 fertilidad del suelo,fertilidad del suelo,conservación del suelo,"fertilidad del suelo, humedad del suelo?"
 monte,monte,recursos en la parcela,"monte (para ramoneo), monte alto, conservar monte"
 recursos no maderables,plantas medicinales,recursos en la parcela,"medicina, remedios"
-animales para cacería,animales para cacería,recursos en la parcela,"animales para caza, animales grandes"
-cantidad de tierra,cantidad de tierra,condiciones socioeconómicas,"cantidad de tierra, parcelas, derechos ejidales"
+animales para cacería,fauna,recursos en la parcela,"animales para caza, animales grandes"
+cantidad de tierra,extension_de_la_propiedad,condiciones socioeconómicas,"cantidad de tierra, parcelas, derechos ejidales"
 disponibilidad de material para trabajar,herramienta de trabajo,condiciones socioeconómicas,"disponibilidad de material, disponibilidad de herramienta, familiares que trabajan en la parcela"
-cantidad de ganado,cantidad de ganado,condiciones socioeconómicas,cantidad de ganado
+cantidad de ganado,ganado,condiciones socioeconómicas,cantidad de ganado
 remesas,remesas,condiciones socioeconómicas,remesas
 apoyos del gobierno,apoyos del gobierno,condiciones socioeconómicas,apoyos del gobierno
 alimento para el ganado,alimento para ganado,condiciones socioeconómicas,"renta de pastura, compra de pastura, alimento para el ganado"
