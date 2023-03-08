@@ -47,7 +47,7 @@ indice_concepto,concepto_practico,termino,tema,origen
 45,orgullo ganadero,orgullo ganadero,condiciones socioeconómicas,"orgullo ganadero, buena fama, prestigio"
 46,ingreso de dinero,dinero,condiciones socioeconómicas,"otros ingresos, dinero"
 47,turismo,turismo,,
-48,,cultura,,"cultura, educación"
+48,,cultura,,"cultura, educación, enseñanza"
 49,,suelo desmontado,,suelo desmontado
 50,,polinizadores,,polinizadores
 51,,mar,,sereno
@@ -60,3 +60,6 @@ indice_concepto,concepto_practico,termino,tema,origen
 58,,frio,,
 59,,salud de las personas,,"salud de la población, salud"
 60,,vivienda,,"viviendas, casas"
+61,,sereno,,"sereno, brisa"
+62,,tiempo,,tiempo
+63,,descanso del suelo,,
