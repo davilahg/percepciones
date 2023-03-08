@@ -1,0 +1,62 @@
+indice_concepto,concepto_practico,termino,tema,origen
+1,desmonte,desmonte,prácticas de manejo de la parcela,"desmonte, tumba, desbrozar, chapear"
+2,control de plagas y malezas,rociar,prácticas de manejo de la parcela,"rociar, aplicar líquido para hoja ancha"
+3,siembra pastos,pastos,recursos en la parcela,"cantidad de pastura, crecimiento/calidad de la guinea"
+4,siembra de cultivos,cultivos,,siembra de milpa
+5,mantenimiento del lienzo,mantenimiento del lienzo,prácticas de manejo de la parcela,mantenimiento del lienzo
+6,quemas,quemas,prácticas de manejo de la parcela,quemas
+7,rotación de potreros,rotación de potreros,prácticas de manejo de la parcela,rotación de potreros
+8,"cuidado de la salud del ganado
+¿desparasitar?",cuidado veterinario,prácticas de manejo del ganado,"desparasitar, bañar, vacunar"
+9,bombear/acarrear agua,acarrear agua,prácticas de manejo del ganado,acarrear agua
+10,construcción de represos/pozos,bebederos y represas,,
+11,madera,madera,recursos en la parcela,"postes, madera, varas, leña, carbón"
+12,siembra,siembra,,"siembra de cultivos, verbo siembra"
+13,fertilidad del suelo,fertilidad del suelo,conservación del suelo,"fertilidad del suelo, humedad del suelo?"
+14,monte,monte,recursos en la parcela,"monte (para ramoneo), monte alto, conservar monte"
+15,recursos no maderables,plantas medicinales,recursos en la parcela,"medicina, remedios"
+16,animales para cacería,fauna,recursos en la parcela,"animales para caza, animales grandes, diversidad de animales"
+17,cantidad de tierra,extension_de_la_propiedad,condiciones socioeconómicas,"cantidad de tierra, parcelas, derechos ejidales"
+18,disponibilidad de material para trabajar,herramienta de trabajo,condiciones socioeconómicas,"disponibilidad de material, disponibilidad de herramienta, familiares que trabajan en la parcela"
+19,cantidad de ganado,ganado,condiciones socioeconómicas,cantidad de ganado
+20,remesas,remesas,condiciones socioeconómicas,remesas
+21,apoyos del gobierno,programas de ganaderización,condiciones socioeconómicas,apoyos del gobierno
+22,alimento para el ganado,alimento para ganado,condiciones socioeconómicas,"renta de pastura, compra de pastura, alimento para el ganado"
+23,enfermedades del ganado,enfermedades del ganado,producción ganadera,"enfermedad del ganado, muerte de vacas"
+24,plagas,plagas,producción ganadera,plagas de la pastura
+25,erosión,erosión,conservación del suelo,"erosión, crecimiento de las piedras, dificultad para trabajar el suelo?"
+26,pesca en ríos,pesca en ríos,conservación de la biodiversidad,disponibilidad de pesca en ríos
+27,disponibilidad de madera y árboles forrajeros,árboles para madera,conservación de la biodiversidad,"disponibilidad de árboles maderables, disponibilidad de árboles para forraje"
+28,variedad de plantas no útiles,malezas,,
+29,belleza del paisaje,belleza del paisaje,conservación de la biodiversidad,"paisaje, admiración de la naturaleza"
+30,biodiversidad de plantas,diversidad de plantas,,diversidad de plantas
+31,conservación de la biodiversidad,conservación de la biodiversidad,conservación de la biodiversidad,conservación
+32,conservación del agua,conservación del agua,,
+33,conservación del suelo,conservación del suelo,,
+34,disponibilidad de agua para consumo humano,agua,conservación del agua,"cantidad de agua en los arroyos, agua limpia para beber (ranchos), agua para ganado"
+35,lluvia,lluvia,conservación del agua,"cantidad de lluvia, distribución de lluvia"
+36,clima,clima,conservación del agua,periodo de lluvias
+37,cambio climático,cambio climático,conservación del agua,cambio climático
+38,sequía,sequía,conservación del agua,sequía
+39,tormenta,tormenta,conservación del agua,tormenta
+40,migración,migración ,condiciones socioeconómicas,migración
+41,huracanes,huracanes,conservación del agua,huracán
+42,biólogos,biólgos,actores,"biólogos, trabajo de los biólogos"
+43,estación de biología de chamela,estación de biología de chamela,actores,estación de biología de chamela
+44,comercio,otros negocios familiares,condiciones socioeconómicas,"mercado/compra, negocio familiar"
+45,orgullo ganadero,orgullo ganadero,condiciones socioeconómicas,"orgullo ganadero, buena fama, prestigio"
+46,ingreso de dinero,dinero,condiciones socioeconómicas,"otros ingresos, dinero"
+47,turismo,turismo,,
+48,,cultura,,"cultura, educación"
+49,,suelo desmontado,,suelo desmontado
+50,,polinizadores,,polinizadores
+51,,mar,,sereno
+52,,esfuerzo de trabajo,,
+53,,industrias,,
+54,,quema de combustibles,,
+55,,selva,,
+56,,espacio para pastar,,
+57,,machetear,,
+58,,frio,,
+59,,salud de las personas,,"salud de la población, salud"
+60,,vivienda,,"viviendas, casas"
