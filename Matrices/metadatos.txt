@@ -1,0 +1,3 @@
+n1 = índice del nodo emisor de acuerdo a la lista de conceptos versión 2
+n2 = índice del nodo receptor de acuerdo a la lista de conceptos versión 2
+enlaces = valor del enlace entre n1 y n2

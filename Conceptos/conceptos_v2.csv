@@ -10,7 +10,7 @@ indice_concepto,concepto_practico,termino,tema,origen
 ¿desparasitar?",cuidado veterinario,prácticas de manejo del ganado,"desparasitar, bañar, vacunar"
 9,bombear/acarrear agua,acarrear agua,prácticas de manejo del ganado,acarrear agua
 10,construcción de represos/pozos,bebederos y represas,,
-11,madera,madera,recursos en la parcela,"postes, madera, varas, leña, carbón"
+11,madera,madera y postes,recursos en la parcela,"postes, madera, varas, leña, carbón"
 12,siembra,siembra,,"siembra de cultivos, verbo siembra"
 13,fertilidad del suelo,fertilidad del suelo,conservación del suelo,"fertilidad del suelo, humedad del suelo?"
 14,monte,monte,recursos en la parcela,"monte (para ramoneo), monte alto, conservar monte"
@@ -45,7 +45,7 @@ indice_concepto,concepto_practico,termino,tema,origen
 43,estación de biología de chamela,estación de biología de chamela,actores,estación de biología de chamela
 44,comercio,otros negocios familiares,condiciones socioeconómicas,"mercado/compra, negocio familiar"
 45,orgullo ganadero,orgullo ganadero,condiciones socioeconómicas,"orgullo ganadero, buena fama, prestigio"
-46,ingreso de dinero,dinero,condiciones socioeconómicas,"otros ingresos, dinero"
+46,ingreso de dinero,dinero y sustento familiar,condiciones socioeconómicas,"otros ingresos, dinero"
 47,turismo,turismo,,
 48,,cultura,,"cultura, educación, enseñanza"
 49,,suelo desmontado,,suelo desmontado
@@ -63,3 +63,4 @@ indice_concepto,concepto_practico,termino,tema,origen
 61,,sereno,,"sereno, brisa"
 62,,tiempo,,tiempo
 63,,descanso del suelo,,
+64,,bienestar,,
